@@ -34,6 +34,6 @@ Scatter plot showing the clear separation of the 3 customer segments based on Te
 - *Environment:* Jupyter Notebook
 
 ## How to Run
-1. Clone the repo: git clone https://github.com/YOUR_USERNAME/telco-customer-segmentation.git
+1. Clone the repo: git clone https://github.com/Vandanakrishna84/telco-customer-segmentation.git
 2. Install requirements: pip install -r requirements.txt
 3. Open the Jupyter Notebook: jupyter notebook customer_segmentation.ipynb
